@@ -5,7 +5,7 @@ faiss-cpu==1.10.0
 sentence-transformers==3.1.1
 pypdf==5.0.1
 requests==2.32.3
-sympy==1.13.3
+sympy==1.13.1
 numpy==1.26.4
 transformers==4.45.1
 torch==2.5.0
