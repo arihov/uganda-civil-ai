@@ -1,0 +1,12 @@
+streamlit==1.38.0
+langchain==0.3.1
+langchain-community==0.3.1
+faiss-cpu==1.8.0
+sentence-transformers==3.1.1
+pypdf==5.0.1
+requests==2.32.3
+sympy==1.13.3
+numpy==2.1.1
+transformers==4.45.1
+torch==2.4.1
+accelerate==1.0.1
