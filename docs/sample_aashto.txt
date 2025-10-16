@@ -1,0 +1,6 @@
+AASHTO LRFD Bridge Design Specifications (9th Ed., 2020 Excerpts):
+Section 3: Loads and Load Factors. Live Load HL-93: Design truck + lane load. Multiple Presence Factor: 1.20 for 2 lanes.
+Section 5: Concrete Structures. Reinforcement: Min As = 0.004 Ag for temp/shrinkage.
+Bridge Deck: Slab thickness min 7 in., rebar spacing 6 in. c/c.
+Partial factors: DC=1.25, DW=1.50, LL=1.75.
+Section 12: Steel Structures. For composite beams, shear connectors per Table 10.17.1-1.
