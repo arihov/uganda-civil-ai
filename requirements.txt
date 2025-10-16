@@ -6,7 +6,7 @@ sentence-transformers==3.1.1
 pypdf==5.0.1
 requests==2.32.3
 sympy==1.13.3
-numpy==1.26.0
+numpy==1.26.4
 transformers==4.45.1
 torch==2.5.0
 accelerate==1.0.1
